@@ -1,0 +1,23 @@
+[33mcommit cff17a71608794f447b231992982f6878395e834[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ngxpaul <phongnx.22git@vku.udn.vn>
+Date:   Fri Jan 26 13:35:28 2024 +0700
+
+    fix
+
+[33mcommit 907f23c7d3b5bbb35619bb80c29991ab588be69f[m
+Author: ngxpaul <phongnx.22git@vku.udn.vn>
+Date:   Thu Jan 25 17:12:12 2024 +0700
+
+    popup ResultModal instantly
+
+[33mcommit a7278df04fe80b958113210ed8ab33a63a3cd85f[m[33m ([m[1;31morigin/60%bug[m[33m, [m[1;32m60%bug[m[33m)[m
+Author: ngxpaul <phongnx.22git@vku.udn.vn>
+Date:   Thu Jan 25 16:05:10 2024 +0700
+
+    timming announce
+
+[33mcommit 02ca8fba78284301a20418bd8bb11878ed591833[m
+Author: ngxpaul <phongnx.22git@vku.udn.vn>
+Date:   Thu Jan 25 11:06:06 2024 +0700
+
+    update TimerChallenge
